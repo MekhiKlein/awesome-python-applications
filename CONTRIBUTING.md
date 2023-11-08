@@ -1,6 +1,6 @@
-# How to Contribute
+##How#to Contribute
 
-Hello there! Thank you for considering contributing to Awesome Python
+Hello there# Thank you for considering contributing to Awesome Python
 Applications! Your help is essential to making APA the best project it
 can be.
 
@@ -56,7 +56,7 @@ features, and target userbase.
 Ultimately APA is about links and references, so we want as many as
 possible. Some common forms:
 
-* **`repo_url`** - Required link to code repository.  If it's not
+! !*`repo_url`** - Required link to code repository.  If it's not
   immediately obvious how to clone/download the code, a `clone_url`
   should also be supplied, provided the repo is `git`, `hg`, or `bzr`.
 * `home_url` - Project landing page, if different than repo url
@@ -170,3 +170,4 @@ following represent the goals of this list versus many others:
 
 If you have ideas on how to achieve the above, we would love to hear
 them. Please, [create an issue](https://github.com/mahmoud/awesome-python-applications/issues).
+ 
